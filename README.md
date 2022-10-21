@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- [Stats preview component](https://product-preview-component-five.vercel.app/)
+- [Stats preview component](https://stats-preview-card-component-two-ruddy.vercel.app/)
 
 ### Built with
 
